@@ -22,3 +22,26 @@ pre vs post pandemic has the strain on governmental programs to cover the gap in
 
 Our data was sourced from the U.S. Department of Housing and Urban Development as it offers the most up to date information on fair market rents, section 8 & 202 housing vouchers, and guidelines for determining amount of assistance and qualification.
 Additionally, this is the department that gathers information to advise changes in payout standards for the Housing Choice Voucher program. As a goverment run department, data from this source should be plentiful and contain minimal bias. 
+
+------------------------------------
+##**Questions We Hope to Answer with the Data**
+- What is considered a fair market price to the HUD?
+   - This will aid in establishing the baseline for HUD requirement for housing assistance voucher amounts, as it is their major contributing factor.
+- What areas have had the most increase in housing voucher assistance payouts and rent between years?
+  - This will establish areas where the strain on governmental assistance programs will be the highest.
+  - Machine learning model will be used to establish clusters based on increase.
+  - Information from these models will be used to draw conclusions about factors having most influence on increase.
+    
+------------------------------------
+
+
+##**Communication Protocols**
+Primary communication will occur through designated slack channel, additional contacts have been shared for email and text communication if needed. A minimum of two team session will occur per week, with additional sessions as needed for progress completion. 
+Pull requests will be reviewed and approved through another team member to ensure best practices and progression.
+
+
+
+
+
+
+
